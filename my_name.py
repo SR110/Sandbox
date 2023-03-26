@@ -1,5 +1,3 @@
 """
 Shreya
 """
-
-print ("print hello ")
