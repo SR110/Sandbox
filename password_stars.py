@@ -1,6 +1,6 @@
 
 def main():
-    """Check password." ""
+    """Check password."""
     MIN_LENGTH = 6
     password = get_password()
     while len(password) < MIN_LENGTH:
