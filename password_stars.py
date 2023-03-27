@@ -1,3 +1,4 @@
+
 def main():
     """Check password."""
     MIN_LENGTH = 6
